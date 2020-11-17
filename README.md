@@ -7,5 +7,8 @@ This is a small Unity game that I did, just to prove that I can do something wit
 ***
 ### What I learned
 * Coroutine
-* Event
+#
+I made the "Obstacles Generator" with Coroutine, at the beginning of the game the coroutine is started and generates an obstacle and the same coroutine is started as a loop.
 * PlayerPrefab
+#
+When the player gets his highest score, that score is stored in the PlayerPrefs to in high score text
